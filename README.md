@@ -16,6 +16,13 @@ Before you begin, ensure you have the following installed:
 - **Node.js 18** (or higher)
 - **PostgreSQL** (Local installation or a cloud database like Supabase/Railway)
 
+## 📚 Documentation
+- [Master Documentation Index](DOCS-INDEX.md)
+- [How We Build Things (Core Philosophy)](PROJECT-CORE.md)
+- [Frontend Architecture](docs/ARCHITECTURE.md)
+- [Backend Architecture](src/main/resources/docs/ARCHITECTURE.md)
+- [Backend API Specification](src/main/resources/docs/API.md)
+
 ## 🛠️ Local Development Setup
 
 ### 1. Database Setup
